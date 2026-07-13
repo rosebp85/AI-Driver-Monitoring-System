@@ -51,9 +51,7 @@ Built with Python, OpenCV, MediaPipe and PySide6.
 ✅ FPS Counter
 
 ✅ Calibration System
-
-
-
+_____________________________________________
 
 ### Demo
 
@@ -64,7 +62,7 @@ or
 python app.py
 
 
-
+_____________________________________________
 
 
 ### System Architecture
@@ -97,7 +95,7 @@ Desktop Dashboard
 
 
 
-
+_____________________________________________
 
 ### Technologies
 
@@ -115,7 +113,7 @@ PyInstaller
 
 
 
-
+_____________________________________________
 
 ### Project Structure
 
@@ -132,7 +130,7 @@ app.py
 README.md
 
 
-
+_____________________________________________
 
 
 ### Installation
@@ -145,7 +143,7 @@ python app.py
 
 
 
-
+_____________________________________________
 
 ### Future Work
 
@@ -161,7 +159,7 @@ Cloud Dashboard
 
 
 
-
+_____________________________________________
 
 ### Author
 
