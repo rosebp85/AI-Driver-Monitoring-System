@@ -64,6 +64,9 @@ or
 python app.py
 
 
+
+
+
 ### System Architecture
 
 Camera
@@ -94,6 +97,8 @@ Desktop Dashboard
 
 
 
+
+
 ### Technologies
 
 Python
@@ -107,6 +112,8 @@ NumPy
 PySide6
 
 PyInstaller
+
+
 
 
 
@@ -126,6 +133,8 @@ README.md
 
 
 
+
+
 ### Installation
 
 git clone ...
@@ -133,6 +142,8 @@ git clone ...
 pip install -r requirements.txt
 
 python app.py
+
+
 
 
 
@@ -147,6 +158,7 @@ Driver Identification
 Deep Learning Models (detecting)
 
 Cloud Dashboard
+
 
 
 
